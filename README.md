@@ -1,2 +1,2 @@
 # MyTodo.github.io
-training lesson my
+training lesson my_1
